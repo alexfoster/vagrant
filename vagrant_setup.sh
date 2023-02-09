@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# NOTE: will clone repos onto local machine and accessed from within VM
+
 # ensure user is non-privileged
 if [[ ! $USER == "vagrant" ]]
 then
