@@ -1,4 +1,4 @@
-Vagrant configuration for a minimal ubuntu 18.04 box with a few additional tools I use. 
+Vagrant configuration for a minimal ubuntu 22.04 box with a few additional tools I use. 
 
 Dependencies:
 - vagrant (tested with version 2.3.4)
